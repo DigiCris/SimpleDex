@@ -1,2 +1,2 @@
 # SimpleDex
-este es el proyecto de simpledex.
+Este es el proyecto de simpledex.
